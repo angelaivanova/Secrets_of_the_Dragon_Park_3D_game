@@ -1,2 +1,2 @@
-# Secrets_of_the_Dragon_Park_3D_game
+# Secrets of the Dragon Park - 3D game
 Дополнително домашно по предметот Програмирање на видео игри
