@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dsj0dx4yxt4tt"
+path.s3tc="res://.godot/imported/ancient_chinese_courtyard_park_0.jpg-1250b80f1e21cc5f90990c7a80f9cc20.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "c0103ceb83b4c162177af16d4e49bbc6"
+}
+
+[deps]
+
+source_file="res://models/park/ancient_chinese_courtyard_park_0.jpg"
+dest_files=["res://.godot/imported/ancient_chinese_courtyard_park_0.jpg-1250b80f1e21cc5f90990c7a80f9cc20.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
